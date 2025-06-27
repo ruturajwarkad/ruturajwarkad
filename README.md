@@ -1,3 +1,5 @@
+---
+
 ````markdown
 ## Hi there 👋
 
@@ -44,7 +46,7 @@ I love building smart things — especially if they involve **AI**, clean UI, or
 Languages     = ["Python", "C++", "C", "R"]
 Databases     = ["MySQL", "MongoDB"]
 Tools_Used    = ["TensorFlow", "scikit-learn", "pandas", "NumPy"]
-ML Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
+ML_Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
 ````
 
 ---
@@ -66,19 +68,19 @@ ML Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
 
 ### 📫 How to reach me
 
-* 📧 [ruturajwarkad2@gmail.com](mailto:ruturajwarkad2@gmail.com)
-* 💼 [LinkedIn](www.linkedin.com/in/ruturaj-warkad-267778292)
+* 📧 Email: [ruturajwarkad2@gmail.com](mailto:ruturajwarkad2@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ruturaj-warkad/)
 
 ---
 
-- ⚡ Fun fact:  
-  I love explaining AI in the simplest way possible — like you're 12.  
-  And yes, I once launched a rocket. 🚀 (Water rocket winner @ Spectrum'24)
-  
+### ⚡ Fun fact
+
+I love explaining AI in the simplest way possible — like you're 12.
+And yes, I once launched a rocket. 🚀 (Water rocket winner @ Spectrum'24)
+
 ---
 
 <p align="center">✨ Thanks for visiting! Let's learn and build something awesome together 🤝 ✨</p>
 ```
 
 ---
-
