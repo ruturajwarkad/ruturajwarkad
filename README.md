@@ -67,7 +67,7 @@ ML_Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
 ### 📫 How to reach me
 
 * 📧 Email: [ruturajwarkad2@gmail.com](mailto:ruturajwarkad2@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/ruturaj-warkad/)
+* 💼 [LinkedIn](www.linkedin.com/in/ruturaj-warkad-267778292)
 
 ---
 
