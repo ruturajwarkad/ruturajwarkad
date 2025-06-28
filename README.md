@@ -57,6 +57,16 @@ ML_Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
 
 ---
 
+📈 **GitHub Stats**
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruturajwarkad&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruturajwarkad&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ruturajwarkad&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 ### 💬 Ask me about
 
 * ML fundamentals, creative problem-solving, or event planning
@@ -74,7 +84,8 @@ ML_Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
 ### ⚡ Fun fact
 
 I love explaining AI in the simplest way possible — like you're 12.
-And yes, I once launched a rocket. 🚀 (Water rocket winner @ Spectrum'24)
+And yes, I once launched a rocket. 
+🚀 (Water rocket winner @ Spectrum'24)
 
 ---
 
