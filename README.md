@@ -15,8 +15,8 @@ I love building smart things — especially if they involve **AI**, clean UI, or
 - 🎓 Third-year B.Tech student  
 - 💡 Passionate about Neural Networks, ML, and problem-solving  
 - 🧠 Learning by doing real projects like:  
-  - 🔮 [House Price Prediction using Neural Networks] (https://github.com/ruturajwarkad/House-Price-Prediction-using-Neural-Network-)
-  - 🏠 [Affordable Housing Recommendation System] (https://github.com/ruturajwarkad/Affordable-Housing-Personalised-Recommendation-System-)
+  - 🔮 [House Price Prediction using Neural Networks](https://github.com/ruturajwarkad/House-Price-Prediction-using-Neural-Network-)  
+  - 🏠 [Affordable Housing Recommendation System](https://github.com/ruturajwarkad/Affordable-Housing-Personalised-Recommendation-System-)
 - 👨‍💼 SY Coordinator, ACM Student Chapter  
 - 🎨 Love making digital posters and creative tech presentations
 
