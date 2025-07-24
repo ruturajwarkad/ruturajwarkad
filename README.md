@@ -59,7 +59,7 @@ ML_Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
 
 📈 **GitHub Stats**
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruturajwarkad&show_icons=true&theme=radical)  
+![Ruturaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruturajwarkad&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruturajwarkad&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
@@ -77,7 +77,7 @@ ML_Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
 ### 📫 How to reach me
 
 * 📧 Email: [ruturajwarkad2@gmail.com](mailto:ruturajwarkad2@gmail.com)
-* 💼 [LinkedIn](www.linkedin.com/in/ruturaj-warkad-267778292)
+* 💼 [LinkedIn](www.linkedin.com/in/ruturajwarkad)
 
 ---
 
