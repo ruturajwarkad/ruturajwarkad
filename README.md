@@ -83,8 +83,6 @@ ML_Models     = ["MLPRegressor", "Sequential (Keras)", "Label Encoding"]
 
 ### ⚡ Fun fact
 
-I love explaining AI in the simplest way possible — like you're 12.
-
 
 And yes, I once launched a rocket. 🚀 (Water rocket winner @ Spectrum'24)
 
